@@ -1,0 +1,14 @@
+export const MINUS = require('./minus.png');
+export const PLUS = require('./plus.png');
+export const LOCATION = require('./location.png');
+export const USER = require('./user.png');
+export const CLEAR = require('./clear.png');
+export const NIGHT = require('./night.png');
+export const SUN = require('./sun.png');
+export const CLOSE_BTN = require('./close-btn.png');
+export const HOW_USE = require('./how-use.png');
+export const AUTO_LOCATION = require('./auto-location.png');
+export const SUBMIT = require('./submit.png');
+export const DELETE = require('./delete.png');
+export const CLOSE_BTN2 = require('./close-btn2.png');
+export const LOCATION_TRANSPORT = require('./location-transport.png');
